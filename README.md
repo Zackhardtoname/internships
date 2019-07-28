@@ -34,4 +34,5 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 |---|---|---|---|---|---|
 | [Amazon](https://www.amazon.jobs/en/jobs/880221/2020-summer-software-development-engineer-intern-sea) | Software Development Engineer | Seattle, Washington | No | N/A |  |
 | [Capital One](https://campus.capitalone.com/job/-/-/1786/12562814?utm_source=localjobnetwork.com&utm_campaign=enterprise&utm_medium=job_posting&utm_content=job_board&ss=paid&dclid=CjgKEAjw4NrpBRDfhrmjpZHPiH8SJABuVfdoxiWiy_1DE6vP-RBQgbIf9OdVBs1hpoqHUa5Ezmg4-vD_BwE) | Technology Internship | U.S. | Bachelor’s degree or higher obtained between December 2020 and August 2021 | will not sponsor a new applicant for employment authorization for this position |  |
+| [Fast Enterprises](https://www.fastenterprises.com/careers/positions/) | Implementation Consultant | U.S. | Must be pursuing degree | | |
 | [JPMorgan Chase](https://jobs.jpmorganchase.com/) | Many types | U.S. |  |  | |
