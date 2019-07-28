@@ -16,6 +16,10 @@ All positions are software engineering roles, unless otherwise specified in the 
 2. Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
 4. Open a pull request!
 
+## Name
+
+**The link generally should point to the websites about the positions**
+
 ## Locations
 
 Two-letter locations indicate states in the U.S.
@@ -25,6 +29,8 @@ U.S. indicates multiple locations in the U.S.
 countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 
 ## Currently Open Applications
-| Name | Location | Graduation Requirement | International | Notes |
-|---|---|---|---|---|
-| [Capital One](https://campus.capitalone.com/job/-/-/1786/12562814?utm_source=localjobnetwork.com&utm_campaign=enterprise&utm_medium=job_posting&utm_content=job_board&ss=paid&dclid=CjgKEAjw4NrpBRDfhrmjpZHPiH8SJABuVfdoxiWiy_1DE6vP-RBQgbIf9OdVBs1hpoqHUa5Ezmg4-vD_BwE) | U.S. | Bachelor’s degree or higher obtained between December 2020 and August 2021 | will not sponsor a new applicant for employment authorization for this position |  |
+| Name | Role | Location | Graduation Requirement | International | Notes |
+|---|---|---|---|---|---|
+| [Amazon](https://www.amazon.jobs/en/jobs/880221/2020-summer-software-development-engineer-intern-sea) | Software Development Engineer | Seattle, Washington | No | N/A |  |
+| [Capital One](https://campus.capitalone.com/job/-/-/1786/12562814?utm_source=localjobnetwork.com&utm_campaign=enterprise&utm_medium=job_posting&utm_content=job_board&ss=paid&dclid=CjgKEAjw4NrpBRDfhrmjpZHPiH8SJABuVfdoxiWiy_1DE6vP-RBQgbIf9OdVBs1hpoqHUa5Ezmg4-vD_BwE) | Technology Internship | U.S. | Bachelor’s degree or higher obtained between December 2020 and August 2021 | will not sponsor a new applicant for employment authorization for this position |  |
+| [JPMorgan Chase](https://jobs.jpmorganchase.com/) | Many Types | U.S. |  |  | |
