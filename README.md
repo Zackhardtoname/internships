@@ -19,7 +19,11 @@
 ## Contributions
 
 1. Fork repository
-2. Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
+
+2. Make changes
+
+   If you are adding internships, edit internships.csv (No need to worry about ordering since we would sort jobs via a script)
+
 3. Open a pull request!
 
 ## Column Explanations
