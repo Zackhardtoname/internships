@@ -1,8 +1,12 @@
 # Summer 2020 Tech Internships!
 
+## View the List on a [website](https://zacklight.com/internships/)!
+
+We am considering buying a domain if enough people are interested in this project (for now I will just look at the number of stars and/or pull requests for this repo)
+
 ## General
 
-- Hi! Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
+- Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 
 * Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
 

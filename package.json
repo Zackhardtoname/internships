@@ -2,6 +2,7 @@
   "name": "internships",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zackLight.com/internships",
   "dependencies": {
     "@handsontable/react": "^3.0.0",
     "handsontable": "^7.1.0",
