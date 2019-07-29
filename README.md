@@ -2,7 +2,7 @@
 
 ## General
 
-- Hi! Please kindly consider staring this repo (top right corner) to help it grow and make revisit it easier for you
+- Hi! Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 
 * Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
 
@@ -78,4 +78,4 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 ## Credits
 
 1. This repo is inspired by [this one](https://github.com/christine-hu/summer-2019-internships)
-2. Much data comes from [this repo](https://github.com/elaine-zheng/summer2020internships)
+2. Several data points are from [this repo](https://github.com/elaine-zheng/summer2020internships)
