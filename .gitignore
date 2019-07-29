@@ -1,0 +1,25 @@
+# development
+test.*
+bank.*
+
+# dependencies
+venv
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+*.idea
+__pycache__
+*.Rproj.user
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

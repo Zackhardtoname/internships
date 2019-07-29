@@ -1,0 +1,192 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #eee;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(51, 51, 51, 0.8);
+    text-shadow: 1px 4px 6px #fff, 0 0 0 #000, 1px 4px 6px #fff;
+    margin-top: 38px;
+}
+
+::-moz-selection {
+    background: #5af;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: #5af;
+    color: #fff;
+    text-shadow: none;
+}
+
+.bg-adequate {
+    background-color: var(--adequate-color);
+}
+
+.bg-unclear {
+    background-color: var(--unclear-color);
+}
+
+.bg-inadequate {
+    background-color: var(--inadequate-color);
+}
+
+.bg-invalid {
+    background-color: var(--invalid-color);
+}
+
+/* Triangles, based on https://tympanus.net/codrops/2013/10/03/a-collection-of-separator-styles/ */
+#shadow::after {
+    position: absolute;
+    content: '';
+    pointer-events: none;
+}
+
+.ss-style-multitriangles::after {
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: translateX(-50%) rotate(45deg);
+    transform: translateX(-50%) rotate(45deg);
+}
+
+.ss-style-multitriangles::after {
+    bottom: -22px;
+    z-index: 1;
+    background: inherit;
+    box-shadow: -50px 50px 0 #cccccc, 50px -50px 0 #cccccc, 2px 2px 0 0 #cccccc, -48px 52px 0 0 #cccccc, 52px -48px 0 0 #cccccc;
+}
+
+.tab {
+    margin-left: 40px;
+}
+
+header,
+#shadow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 170px;
+    background: #fff;
+    z-index: 2;
+}
+
+#hot tabletable:first-of-type,
+#shadow {
+    border-color: #cccccc;
+    z-index: -1;
+}
+
+header {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+header h1,
+header #logos {
+    display: inline-block;
+}
+
+header #logos {
+    float: right;
+    line-height: 170px;
+}
+
+header #logos img:not(:first-child) {
+    margin-left: 50px;
+}
+
+#content {
+    margin-top: 270px;
+}
+
+/*#hot,*/
+.card {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    border-color: #cccccc !important;
+}
+
+#panel {
+    margin-bottom: 30px;
+}
+
+#instructions {
+    transition: width 1s, margin-left 1s;
+}
+
+hr {
+    display: block;
+    width: 100%;
+    border-top: 1px solid #d6d6d6;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.panel-heading h3 {
+    text-align: center;
+}
+
+.panel-body {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.instructions {
+    font-size: large;
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    h1 {
+        font-size: 35px;
+        margin-top: 42px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    h1 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+
+    header #logos img {
+        display: block;
+        width: 50%;
+        margin-top: 20px;
+    }
+
+    header #logos img:not(:first-child) {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+
+    header #logos img {
+        display: none;
+    }
+}

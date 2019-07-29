@@ -1,0 +1,22 @@
+@import '~handsontable/dist/handsontable.full.css';
+
+#hot {
+    overflow: hidden !important;
+    width: 100% !important;
+}
+
+.btn {
+    border-width: 0;
+}
+
+#hot td {
+    white-space: nowrap
+}
+
+.htCore {
+    border-width: 3px !important
+}
+
+.handsontable td.htInvalid {
+    background-color: hotpink !important
+}

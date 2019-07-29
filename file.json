@@ -1,0 +1,282 @@
+[
+    {
+        "component": {
+            "Location": {
+                "name": "Name",
+                "version": "Position"
+            }
+        }
+    },
+    {
+        "component": {
+            "Chicago": {
+                "name": "Akuna",
+                "version": "Many types"
+            }
+        }
+    },
+    {
+        "component": {
+            "Seattle, Washington": {
+                "name": "Amazon",
+                "version": "Software Development"
+            }
+        }
+    },
+    {
+        "component": {
+            "Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.": {
+                "name": "American Express",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Santa Clara Valley (Cupertino), California (Mainly)": {
+                "name": "Apple",
+                "version": "SWE, Hardware, UI/UX, Sales, ML"
+            }
+        }
+    },
+    {
+        "component": {
+            "Chicago": {
+                "name": "Belvedere Trading",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "San Francisco, CA": {
+                "name": "Blend",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Green Bay, WI": {
+                "name": "Breakthrough",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "": {
+                "name": "Capital One",
+                "version": "Technology Internship"
+            }
+        }
+    },
+    {
+        "component": {
+            "Several: Dublin, London, Chicago, Hong Kong, London, New York, Austin": {
+                "name": "Citadel",
+                "version": "SWE, Quant, IT, DevOps"
+            }
+        }
+    },
+    {
+        "component": {
+            "Cedar Rapids, IA": {
+                "name": "Collins Aerospace",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Pittsburgh, PA": {
+                "name": "Duolingo",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Several: Menlo Park, New York, Boston, Seattle, etc.": {
+                "name": "Facebook",
+                "version": "FrontEnd, SWE, AI, etc."
+            }
+        }
+    },
+    {
+        "component": {
+            "U.S.": {
+                "name": "Fast Enterprises",
+                "version": "Implementation Consultant"
+            }
+        }
+    },
+    {
+        "component": {
+            "US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield": {
+                "name": "Fidelity Investments",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "San Francisco, Paris": {
+                "name": "Front",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Several: Americas": {
+                "name": "Goldman Sachs",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Remote/Work From Home": {
+                "name": "Groceristar",
+                "version": "Engineers, Q&A, Project manager, Personal Assistant, Growth Hacker. Seems to have strong mentorship and learning experience"
+            }
+        }
+    },
+    {
+        "component": {
+            "Webster, TX": {
+                "name": "Houston Mechatronics",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Chicago": {
+                "name": "IMC Trading",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Asia: Singapore, Europe, Middle East, US: IL, OH, TX, NY, DE, TX, CA, WA, FL": {
+                "name": "JP Morgan Chase",
+                "version": "Many types"
+            }
+        }
+    },
+    {
+        "component": {
+            "Los Alamos, NM": {
+                "name": "Los Alamos National Lab",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Stow, OH": {
+                "name": "Matco Tools",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Global": {
+                "name": "Microsoft",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "New York, NY": {
+                "name": "Morgan Stanley",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Tokyo or Stamford, CT": {
+                "name": "NBCUniversal",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Chicago": {
+                "name": "Optiver",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Austin, TX": {
+                "name": "Red Ventures",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "San Francisco, CA": {
+                "name": "Rimeto",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Menlo Park, CA": {
+                "name": "Robinhood",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Santa Clara Valley (Cupertino), California (Mainly)": {
+                "name": "SAS",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Malvern, PA and Charlotte, NC": {
+                "name": "The Vanguard Group",
+                "version": "Software Development, Technology Operations"
+            }
+        }
+    },
+    {
+        "component": {
+            "Chicago": {
+                "name": "Vail",
+                "version": "SWE, DevOps"
+            }
+        }
+    },
+    {
+        "component": {
+            "New York, NY": {
+                "name": "Virtu Financial",
+                "version": ""
+            }
+        }
+    },
+    {
+        "component": {
+            "Paris, France": {
+                "name": "Vyte",
+                "version": "Frontend, backend?"
+            }
+        }
+    }
+]
