@@ -1,6 +1,6 @@
 # Summer 2020 Tech Internships!
 
-## Use the List on a [website](https://zacklight.com/internships/)!
+## Use the List like Excel on a [website](https://zacklight.com/internships/)!
 
 * Support most of the basic Excel functionalities such as **filtering** (downloading and importing are yet to be tested)
 
@@ -11,6 +11,10 @@
 - Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 
 * Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
+* <u>Difference between this and other platforms</u>
+  * Not everyone has access to Handshake
+  * You can download all the data from this repo as a CSV file and use Excel to keep track of them
+  * The repo is community maintained and crowdsourced, offering many advantages. For instance, someone contacted me about how bad/shady one of the companies is, and the community can respond faithfully
 
 ## Contributions
 

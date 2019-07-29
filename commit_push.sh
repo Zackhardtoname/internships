@@ -2,7 +2,7 @@
 read -e -p "Commit message: " desc  
 if [ -z "$desc" ]
 then
-    desc="Update data"
+    desc="Update README.md"
 fi
 git commit -am "$desc"
 git push origin master
