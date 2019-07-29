@@ -82,7 +82,7 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 |   32 | Vail                    | SWE, DevOps                                                  | Chicago                                                      |                  |                            |                           |                                                              | https://www.vailsys.com/about/careers/                       |
 |   33 | Virtu Financial         |                                                              | New York, NY                                                 |                  |                            |                           | Prefers C++ or Java programming skills                       | https://boards.greenhouse.io/virtu/jobs/4367942002           |
 |   34 | Vyte                    | Frontend, backend?                                           | Paris, France                                                |                  |                            |                           | Positions available for both Frontend and Backend Internships in Paris | https://jobs.stationf.co/companies/vyte                      |
-
+|   35 | Leidos                    | Software                                           | Reston, VA, US                                                |                  |                            |                           | US Citizenship Required |                      |
 
 
 ## Credits
