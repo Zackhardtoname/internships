@@ -78,4 +78,4 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 ## Credits
 
 1. This repo is inspired by [this one](https://github.com/christine-hu/summer-2019-internships)
-2. Several data points are from [this repo](https://github.com/elaine-zheng/summer2020internships)
+2. As of right now, a lot of data points are from [this repo](https://github.com/elaine-zheng/summer2020internships)
