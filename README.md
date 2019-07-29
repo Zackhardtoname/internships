@@ -2,7 +2,7 @@
 
 ## View the List on a [website](https://zacklight.com/internships/)!
 
-We am considering buying a domain if enough people are interested in this project (for now I will just look at the number of stars and/or pull requests for this repo)
+We am considering buying a domain if enough people are interested in this project (for now we will just look at the number of stars and/or pull requests for this repo)
 
 ## General
 
