@@ -2,7 +2,7 @@
 
 For now, we mainly have **2020 summer tech internships**
 
-## Use the List 
+## Use the List
 
 1. ## like Excel on a [website](https://zacklight.com/internships/)!
 
