@@ -32,16 +32,9 @@ const Panel = () => {
                 </ol>
                 <h5 className="card-title">Contributions</h5>
                 <ol>
-                    <li>
-                        Fork this repo <a href="https://github.com/Zackhardtoname/internships-2020-summer" target="_blank" rel="noopener noreferrer">here</a>
-                    </li>
-                    <li>
-                        Make changes
-                        If you are adding internships, edit internships.csv (No need to worry about ordering since we would sort jobs via a script)
-                    </li>
-                    <li>
-                        Open a pull request!
-                    </li>
+                     <p className="card-text tab">
+                        See <b>simple</b> steps <a href="https://github.com/Zackhardtoname/internships/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Here</a>
+                    </p>
                 </ol>
                 <p className="card-text tab">
                     If you find the process above difficult, just make an issue in GitHub, and we would take a look.
