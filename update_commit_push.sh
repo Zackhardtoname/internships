@@ -1,12 +1,11 @@
 #!/bin/bash
 read -e -p "Commit message: " desc  
-if [ -z "$desc" ]
-then
-    desc="Update README.md"
-fi
 
-# python update_data.py
+# Python scripts
+source venv/bin/activate
+python update_data.py
 
+# Git
 git commit -am "$desc"
 git push origin master
 
