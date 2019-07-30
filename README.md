@@ -4,7 +4,7 @@ For now, we mainly have **2020 summer tech internships**
 
 ## Use the List
 
-1. ## like Excel on a [website](https://zacklight.com/internships/)!
+1. ## like Excel on a [website](https://zacklight.com/internships/) (URL might change so make sure to star this repo)!
 
 2. ## as a [markdown file](internships.md)!
 

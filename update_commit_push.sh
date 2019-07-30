@@ -2,8 +2,8 @@
 read -e -p "Commit message: " desc  
 
 # Python scripts
-"venv\Scripts\activate"
-python update_data.py
+#"venv\Scripts\activate"
+#python update_data.py
 
 # Git
 git commit -am "$desc"
