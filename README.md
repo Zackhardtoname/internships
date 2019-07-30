@@ -1,4 +1,6 @@
-# Summer 2020 Tech Internships!
+# Internships!
+
+For now, we mainly have **2020 summer tech internships**
 
 ## Use the List 
 
