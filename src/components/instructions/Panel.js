@@ -36,8 +36,8 @@ const Panel = () => {
                         Fork this repo <a href="https://github.com/Zackhardtoname/internships-2020-summer" target="_blank" rel="noopener noreferrer">here</a>
                     </li>
                     <li>
-                        Edit the CSV file
-                        (No need to worry about alphabetical order as we use a script to sort the list)
+                        Make changes
+                        If you are adding internships, edit internships.csv (No need to worry about ordering since we would sort jobs via a script)
                     </li>
                     <li>
                         Open a pull request!

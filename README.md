@@ -32,6 +32,10 @@
 
 3. Open a pull request!
 
+   
+
+   If you find the process above difficult, just make an issue in GitHub, and we would take a look.
+
 ## Column Explanations
 
 ### Name
