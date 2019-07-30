@@ -2,7 +2,7 @@
 read -e -p "Commit message: " desc  
 
 # Python scripts
-source ./venv/bin/activate
+venv\Scripts\activate
 python update_data.py
 
 # Git
