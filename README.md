@@ -1,6 +1,6 @@
 # Internships!
 
-For now, we mainly have **2020 summer tech internships**
+Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 
 ## Use the List
 
@@ -10,15 +10,17 @@ For now, we mainly have **2020 summer tech internships**
 
 3. ## as a [CSV file](internships.csv)!
 
+4. ## add to Trello (use the website/CSV file and follow [this](https://youtu.be/R90LYeZSZpA))
+
 * Support most of the basic Excel functionalities such as **filtering** (downloading and importing are yet to be tested)
 
 * We am considering buying a domain if enough people are interested in this project (for now we will just look at the number of stars and/or pull requests for this repo)
 
 ## General
 
-- Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
+- For now, we mainly have **2020 summer tech internships**
+- Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
 
-* Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
 * <u>Difference between this and other platforms</u>
   * Not everyone has access to Handshake
   * You can download all the data from this repo as a CSV file and use Excel to keep track of them
