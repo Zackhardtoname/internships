@@ -4,13 +4,13 @@
 
 2. Make changes
 
-   a. Contributing internships
+   If you don't know Python:
 
    ​	Edit internships.csv (No need to worry about ordering since we would sort jobs via a script)
 
-   b. Contributing code
+   Else:
 
-   ​	Install Python packages from requirement.txt with 
+   ​    Create a Python virtual environment and install the needed Python packages with 
 
    ​    <u>pip install -r requirements.txt</u>
 
