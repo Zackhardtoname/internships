@@ -26,5 +26,5 @@ function initializeReactGA() {
 }
 
 // track website visits and events
-initializeReactGA()
+// initializeReactGA()
 export default App;
