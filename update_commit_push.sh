@@ -2,13 +2,14 @@
 read -e -p "Commit message: " desc  
 
 # Python scripts
-echo Start to update data
+echo Start to update
 cd ./venv
 source Scripts/activate
 cd ..
 python convert_json.py
 python convert_md.py
-echo Updated data
+python combine.py
+echo Updated
 
 # Git
 git commit -am "$desc"
