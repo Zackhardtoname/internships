@@ -4,6 +4,9 @@ import Panel from "./components/instructions/Panel";
 import Matrix from "./components/matrix/Matrix";
 import ReactGA from 'react-ga';
 
+// track website visits and events
+initializeReactGA()
+
 function App() {
     return (
             <div className="App">
@@ -25,6 +28,4 @@ function initializeReactGA() {
     });
 }
 
-// track website visits and events
-// initializeReactGA()
 export default App;
