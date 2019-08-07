@@ -8,7 +8,7 @@ const Panel = () => {
                 <h5 className="card-title">General</h5>
                 <ol>
                     <li>
-                        We am considering buying a domain if enough people are interested in this project (for now I will just look at the number of stars and/or pull requests for this repo)
+                        We are considering buying a domain if enough people are interested in this project (for now I will just look at the number of stars and/or pull requests for this repo)
                     </li>
                     <li>
                         Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
