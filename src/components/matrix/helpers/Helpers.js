@@ -1,4 +1,4 @@
-import {columnDelimiter} from "../Constants";
+import {columnDelimiter, maxColWidth, adjColWidthThres} from "../Constants";
 
 export function parseCSV(cur_instance, data) {
     let parseData = [];
@@ -15,4 +15,10 @@ export function parseCSV(cur_instance, data) {
     }
 
     cur_instance.loadData(parseData);
+}
+
+export function modifyColWidth(width, col){
+    if(width > adjColWidthThres){
+        return maxColWidth
+    }
 }

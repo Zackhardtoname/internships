@@ -1,7 +1,9 @@
 import React, {Fragment, useEffect} from 'react';
 import {HotTable} from '@handsontable/react';
+import {generalRenderer} from "./MatrixRenderers";
 import {exportBtnSetup, importCSV} from "./BtnScripts";
 import {colHeaders, initialData} from "./Constants";
+import {modifyColWidth} from "./helpers/Helpers";
 import './Matrix.css';
 
 const Matrix = () => {
@@ -18,10 +20,11 @@ const Matrix = () => {
         width: '100%',
         height: 500,
         stretchH: "all",
-        className: "htCenter",
         columnSorting: true,
         filters: true,
-        dropdownMenu: true
+        dropdownMenu: true,
+        modifyColWidth: modifyColWidth,
+        cells: generalRenderer,
     };
 
     useEffect(() => {

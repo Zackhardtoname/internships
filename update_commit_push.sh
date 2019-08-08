@@ -6,6 +6,7 @@ echo Start to update
 cd ./venv
 source Scripts/activate
 cd ..
+python sort.py
 python convert_json.py
 python convert_md.py
 python combine.py

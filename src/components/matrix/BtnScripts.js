@@ -1,5 +1,5 @@
-import {columnDelimiter, initialData as curData} from "./Constants";
-import {parseCSV} from "./helpers/InputHelpers";
+import {columnDelimiter} from "./Constants";
+import {parseCSV} from "./helpers/Helpers";
 
 export function exportBtnSetup(hotTableComponent) {
     let btn = document.getElementById('export-file');
