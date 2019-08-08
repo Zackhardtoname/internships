@@ -56,7 +56,7 @@
 {
     "Name": "Asana",
     "Position": "SWE ",
-    "Location": "San Francisco, New York City, Reykjav\u2019k, Vancouver ",
+    "Location": "San Francisco, New York City, Reykjavik, Vancouver ",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "SaaS",
@@ -297,15 +297,6 @@
     "URL": "https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550"
 },
 {
-    "Name": "Jane Street",
-    "Position": "",
-    "Location": "NYC",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.janestreet.com/join-jane-street/open-positions/"
-},
-{
     "Name": "JP Morgan Chase",
     "Position": "Many types",
     "Location": "Asia: Singapore, Europe, Middle East, US: IL, OH, TX, NY, DE, TX, CA, WA, FL",
@@ -313,6 +304,15 @@
     "International": "Won't take internationals",
     "Notes": "All JP Morgan Chase positions open including IB/Quant/Data Analytics",
     "URL": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7"
+},
+{
+    "Name": "Jane Street",
+    "Position": "",
+    "Location": "NYC",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://www.janestreet.com/join-jane-street/open-positions/"
 },
 {
     "Name": "Leidos",
@@ -450,15 +450,6 @@
     "URL": "https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1"
 },
 {
-    "Name": "reddit",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "?"
-},
-{
     "Name": "Rimeto",
     "Position": "",
     "Location": "San Francisco, CA",
@@ -477,15 +468,6 @@
     "URL": "https://boards.greenhouse.io/robinhood"
 },
 {
-    "Name": "Salesfore",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.salesforce.com/company/careers/university-recruiting/us-canada/"
-},
-{
     "Name": "SAS",
     "Position": "",
     "Location": "Santa Clara Valley (Cupertino), California (Mainly)",
@@ -493,6 +475,15 @@
     "International": "",
     "Notes": "Pipeline for students with Autism",
     "URL": "https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
+},
+{
+    "Name": "Salesfore",
+    "Position": "",
+    "Location": "San Francisco",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://www.salesforce.com/company/careers/university-recruiting/us-canada/"
 },
 {
     "Name": "Slack",
@@ -637,4 +628,13 @@
     "International": "",
     "Notes": "",
     "URL": "https://www.zynga.com/job-listing-category/students-new-grads-interns/"
+},
+{
+    "Name": "reddit",
+    "Position": "",
+    "Location": "San Francisco",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": "?"
 }]}
