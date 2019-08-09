@@ -15,8 +15,6 @@ const Matrix = () => {
         data: initialData,
         rowHeaders: true,
         manualRowMove: true,
-        modifyColWidth: modifyColWidth,
-        manualColumnResize: true,
         contextMenu: true,
         colHeaders: colHeaders,
         width: '100%',
@@ -25,6 +23,7 @@ const Matrix = () => {
         columnSorting: true,
         filters: true,
         dropdownMenu: true,
+        modifyColWidth: modifyColWidth,
         cells: generalRenderer,
     };
 
