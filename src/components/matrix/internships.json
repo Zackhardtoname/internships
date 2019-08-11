@@ -1,23 +1,5 @@
 { "internships" : [
 {
-    "Name": "Adobe",
-    "Position": "SWE, DevOps?, SRE?",
-    "Location": "San Francisco, San Jose",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.adobe.com/careers/university.html"
-},
-{
-    "Name": "Airbnb",
-    "Position": "SWE, ?",
-    "Location": "Paris, Beijing, Berlin, London, Seoul, Singapore, multiple in US",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "12 week program, ",
-    "URL": "https://careers.airbnb.com/university/"
-},
-{
     "Name": "Akuna",
     "Position": "Many types",
     "Location": "Chicago",
@@ -54,24 +36,6 @@
     "URL": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=Internships-STDNT-INTRN"
 },
 {
-    "Name": "Asana",
-    "Position": "SWE ",
-    "Location": "San Francisco, New York City, Reykjavik, Vancouver ",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "SaaS",
-    "URL": "https://asana.com/jobs/university-recruiting"
-},
-{
-    "Name": "Atlassian",
-    "Position": "SWE, SRE, PM, Design",
-    "Location": "Mountain View, Sydney",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.atlassian.com/company/careers/interns"
-},
-{
     "Name": "Belvedere Trading",
     "Position": "",
     "Location": "Chicago",
@@ -88,24 +52,6 @@
     "International": "",
     "Notes": "",
     "URL": "https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7"
-},
-{
-    "Name": "Bloomberg",
-    "Position": "SWE, \"Analytics",
-    "Location": "Lodon, Frankfurt, NYC, San Paulo, Tel Aviv",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.bloomberg.com/careers/internships/"
-},
-{
-    "Name": "Box",
-    "Position": "SWE, ",
-    "Location": "Redwood City, San Francisco, NYC, Austin, Chicago",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://careers.box.com/c/university-jobs"
 },
 {
     "Name": "Breakthrough",
@@ -135,24 +81,6 @@
     "URL": "https://www.citadel.com/careers/open-positions/positions-for-students/"
 },
 {
-    "Name": "Cloudflare",
-    "Position": "SWE, SRE, other software specializations",
-    "Location": "San Francisco, Austin, London, Singapore",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.cloudflare.com/careers/departments/engineering/"
-},
-{
-    "Name": "Coinbase",
-    "Position": "",
-    "Location": "San Francisco, NYC",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "Cover letter required",
-    "URL": "https://www.coinbase.com/careers/positions?"
-},
-{
     "Name": "Collins Aerospace",
     "Position": "",
     "Location": "Cedar Rapids, IA",
@@ -162,6 +90,15 @@
     "URL": "https://jobs.collinsaerospace.com/job/cedar-rapids/software-electrical-engineering-intern-summer-2020/1738/12601751"
 },
 {
+    "Name": "Dropbox",
+    "Position": "",
+    "Location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "Class Year Requirement": "Junior, New Grad",
+    "International": "",
+    "Notes": "",
+    "URL": "https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions"
+},
+{
     "Name": "Duolingo",
     "Position": "",
     "Location": "Pittsburgh, PA",
@@ -169,15 +106,6 @@
     "International": "",
     "Notes": "",
     "URL": "https://boards.greenhouse.io/duolingo/jobs/4351727002"
-},
-{
-    "Name": "Etsy",
-    "Position": "",
-    "Location": "Brookyn, NY",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.etsy.com/careers#engineering"
 },
 {
     "Name": "Facebook",
@@ -216,24 +144,6 @@
     "URL": "https://frontapp.com/jobs"
 },
 {
-    "Name": "Github ",
-    "Position": "SWE",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "Covers flight to and from offices and walking distance housing",
-    "URL": "https://internships.github.com/"
-},
-{
-    "Name": "GoDaddy",
-    "Position": "SWE, SRE",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://careers.godaddy.com/university"
-},
-{
     "Name": "Goldman Sachs",
     "Position": "",
     "Location": "Several: Americas",
@@ -245,7 +155,7 @@
 {
     "Name": "Google",
     "Position": "Many types",
-    "Location": "Global",
+    "Location": "U.S., India",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "SDE position in India and some research positions in the U.S.",
@@ -259,15 +169,6 @@
     "International": "",
     "Notes": "Unpaid. Seems to have strong mentorship and learning experience",
     "URL": "https://angel.co/company/groceristar/jobs"
-},
-{
-    "Name": "Handshake",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://joinhandshake.com/careers/"
 },
 {
     "Name": "Houston Mechatronics",
@@ -306,15 +207,6 @@
     "URL": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7"
 },
 {
-    "Name": "Jane Street",
-    "Position": "",
-    "Location": "NYC",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.janestreet.com/join-jane-street/open-positions/"
-},
-{
     "Name": "Leidos",
     "Position": "Software",
     "Location": "Reston, VA, US",
@@ -324,15 +216,6 @@
     "URL": "https://www.leidos.com/products"
 },
 {
-    "Name": "LinkedIn",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://careers.linkedin.com/students"
-},
-{
     "Name": "Los Alamos National Lab",
     "Position": "",
     "Location": "Los Alamos, NM",
@@ -340,15 +223,6 @@
     "International": "",
     "Notes": "Min. GPA 3.0 Coverletter Required",
     "URL": "https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw.."
-},
-{
-    "Name": "Lyft",
-    "Position": "",
-    "Location": "San Francisco, San Jose, Seattle",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.lyft.com/careers/university"
 },
 {
     "Name": "Matco Tools",
@@ -378,15 +252,6 @@
     "URL": "https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology"
 },
 {
-    "Name": "Mozilla",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://careers.mozilla.org/university/"
-},
-{
     "Name": "NBCUniversal",
     "Position": "",
     "Location": "Tokyo or Stamford, CT",
@@ -405,42 +270,6 @@
     "URL": "https://www.optiver.com/na/en/job-opportunities/us-4315469002"
 },
 {
-    "Name": "Palantir",
-    "Position": "",
-    "Location": "Global",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.palantir.com/students/"
-},
-{
-    "Name": "Pandora",
-    "Position": "",
-    "Location": "SF",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.pandora.com/careers/universityrecruiting"
-},
-{
-    "Name": "PayPal",
-    "Position": "",
-    "Location": "US, Headquarters in San Jose, CA",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads"
-},
-{
-    "Name": "Quora",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.quora.com/careers/engineering"
-},
-{
     "Name": "Red Ventures",
     "Position": "",
     "Location": "Austin, TX",
@@ -448,6 +277,15 @@
     "International": "",
     "Notes": "Prefers experience with top web languages",
     "URL": "https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1"
+},
+{
+    "Name": "Reddit",
+    "Position": "",
+    "Location": "San Francisco",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": ""
 },
 {
     "Name": "Rimeto",
@@ -477,40 +315,13 @@
     "URL": "https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
 },
 {
-    "Name": "Salesfore",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
+    "Name": "Salesforce",
+    "Position": "Software Engineer",
+    "Location": "Many types",
+    "Class Year Requirement": "Sophomore, Junior, Senior",
     "International": "",
     "Notes": "",
-    "URL": "https://www.salesforce.com/company/careers/university-recruiting/us-canada/"
-},
-{
-    "Name": "Slack",
-    "Position": "",
-    "Location": "San Francisco, NYC, London",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://slack.com/careers/university-recruiting"
-},
-{
-    "Name": "Spotify",
-    "Position": "",
-    "Location": "Stockholm, NYC, London, ",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.spotifyjobs.com/students/"
-},
-{
-    "Name": "Stripe",
-    "Position": "",
-    "Location": "HQ in San Francisco, offices worldwide",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://stripe.com/jobs/university"
+    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
 },
 {
     "Name": "The Vanguard Group",
@@ -522,24 +333,6 @@
     "URL": "https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925"
 },
 {
-    "Name": "Twilio",
-    "Position": "",
-    "Location": "",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.twilio.com/company/jobs#open-positions"
-},
-{
-    "Name": "Twitch",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.twitch.tv/jobs/internships/"
-},
-{
     "Name": "Twitter",
     "Position": "",
     "Location": "Global",
@@ -549,24 +342,6 @@
     "URL": "https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship"
 },
 {
-    "Name": "TwoSigma",
-    "Position": "",
-    "Location": "NYC",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.twosigma.com/careers/students/"
-},
-{
-    "Name": "Uber",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.uber.com/us/en/careers/teams/university/"
-},
-{
     "Name": "Vail",
     "Position": "SWE, DevOps",
     "Location": "Chicago",
@@ -574,15 +349,6 @@
     "International": "",
     "Notes": "",
     "URL": "https://www.vailsys.com/about/careers/"
-},
-{
-    "Name": "Verizon",
-    "Position": "",
-    "Location": "Global",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.verizon.com/about/careers/college-students"
 },
 {
     "Name": "Virtu Financial",
@@ -628,13 +394,4 @@
     "International": "",
     "Notes": "",
     "URL": "https://www.zynga.com/job-listing-category/students-new-grads-interns/"
-},
-{
-    "Name": "reddit",
-    "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "?"
 }]}

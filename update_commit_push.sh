@@ -1,9 +1,6 @@
 #!/bin/bash
 read -e -p "Commit message: " desc  
 
-# Git
-git pull
-
 # Python scripts
 echo Start to update
 cd ./venv
