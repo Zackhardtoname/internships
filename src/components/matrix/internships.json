@@ -74,7 +74,7 @@
 {
     "Name": "Capital One",
     "Position": "Technology Internship",
-    "Location": "McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas\u00ca",
+    "Location": "McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas\u00ef\u00bf\u00bd",
     "Class Year Requirement": "Junior, Senior",
     "International": "No sponsorship",
     "Notes": "",
@@ -342,15 +342,6 @@
     "URL": "https://boards.greenhouse.io/robinhood"
 },
 {
-    "Name": "Salesforce",
-    "Position": "Software Engineer",
-    "Location": "Many types",
-    "Class Year Requirement": "Sophomore, Junior, Senior",
-    "International": "",
-    "Notes": "",
-    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
-},
-{
     "Name": "SAS",
     "Position": "",
     "Location": "Santa Clara Valley (Cupertino), California (Mainly)",
@@ -358,6 +349,15 @@
     "International": "",
     "Notes": "Pipeline for students with Autism",
     "URL": "https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
+},
+{
+    "Name": "Salesforce",
+    "Position": "Software Engineer",
+    "Location": "Many types",
+    "Class Year Requirement": "Sophomore, Junior, Senior",
+    "International": "",
+    "Notes": "",
+    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
 },
 {
     "Name": "Snapchat",
