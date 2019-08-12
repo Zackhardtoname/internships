@@ -11,7 +11,7 @@
 {
     "Name": "Amazon",
     "Position": "Software Development",
-    "Location": "Seattle, Washington",
+    "Location": "Seattle, Washington,; Austin, TX;  Bay Area, Bellevue; Boston, MA; Denver, CO; Detriot, Michigan; Herndon, Virginia; Irvine, California; New York, NY; Madison, Wisconsin; Minneapolis, Minnesota; Phoenix, Arizona;Portland, OR; San Diego, California; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "",
@@ -34,6 +34,15 @@
     "International": "",
     "Notes": "",
     "URL": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=Internships-STDNT-INTRN"
+},
+{
+    "Name": "Atlassian",
+    "Position": "Software Developer",
+    "Location": "Mountian View, CA",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021",
+    "URL": "https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b"
 },
 {
     "Name": "Belvedere Trading",
@@ -65,7 +74,7 @@
 {
     "Name": "Capital One",
     "Position": "Technology Internship",
-    "Location": "",
+    "Location": "McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas\u00ca",
     "Class Year Requirement": "Junior, Senior",
     "International": "No sponsorship",
     "Notes": "",
@@ -88,6 +97,15 @@
     "International": "U.S. citizenship required",
     "Notes": "",
     "URL": "https://jobs.collinsaerospace.com/job/cedar-rapids/software-electrical-engineering-intern-summer-2020/1738/12601751"
+},
+{
+    "Name": "Databricks",
+    "Position": "Software Engineer",
+    "Location": "San Francisco, CA",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "2020, 2021 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |",
+    "URL": "https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62"
 },
 {
     "Name": "Dropbox",
@@ -135,9 +153,18 @@
     "URL": "https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/"
 },
 {
+    "Name": "Flexport",
+    "Position": "Software Engineer",
+    "Location": "San Francisco, CA; Chicago Illinois",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://boards.greenhouse.io/flexport/jobs/1802354"
+},
+{
     "Name": "Front",
     "Position": "",
-    "Location": "San Francisco, Paris",
+    "Location": "San Francisco, California; Paris, France",
     "Class Year Requirement": "Junior, Senior",
     "International": "",
     "Notes": "",
@@ -270,6 +297,15 @@
     "URL": "https://www.optiver.com/na/en/job-opportunities/us-4315469002"
 },
 {
+    "Name": "Qualcomm",
+    "Position": "Software Engineer",
+    "Location": "San Diego, California; Boulder, CO; Austin, Texas; San Jose, California; Santa Clara, California",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "In study toward Bachelors (3.0 GPA or above) or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September) ",
+    "URL": "https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484"
+},
+{
     "Name": "Red Ventures",
     "Position": "",
     "Location": "Austin, TX",
@@ -306,6 +342,15 @@
     "URL": "https://boards.greenhouse.io/robinhood"
 },
 {
+    "Name": "Salesforce",
+    "Position": "Software Engineer",
+    "Location": "Many types",
+    "Class Year Requirement": "Sophomore, Junior, Senior",
+    "International": "",
+    "Notes": "",
+    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
+},
+{
     "Name": "SAS",
     "Position": "",
     "Location": "Santa Clara Valley (Cupertino), California (Mainly)",
@@ -315,13 +360,22 @@
     "URL": "https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
 },
 {
-    "Name": "Salesforce",
+    "Name": "Snapchat",
+    "Position": "IT Internal Front End Developer",
+    "Location": "Los Angeles, California",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "Perferred Ability to code in Javascript and script with HTML and CSS ",
+    "URL": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045"
+},
+{
+    "Name": "Stripe",
     "Position": "Software Engineer",
-    "Location": "Many types",
-    "Class Year Requirement": "Sophomore, Junior, Senior",
+    "Location": "San Francisco, CA; Seattle, WA",
+    "Class Year Requirement": "",
     "International": "",
     "Notes": "",
-    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
+    "URL": "https://stripe.com/jobs/listing/software-engineering-intern/1793449"
 },
 {
     "Name": "The Vanguard Group",
@@ -335,11 +389,20 @@
 {
     "Name": "Twitter",
     "Position": "",
-    "Location": "Global",
+    "Location": "San Francisco, CA",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship"
+},
+{
+    "Name": "Two Sigma",
+    "Position": "Software Engineer",
+    "Location": "New York, NY",
+    "Class Year Requirement": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982"
 },
 {
     "Name": "Vail",
