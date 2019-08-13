@@ -9,6 +9,7 @@ echo Start to update
 cd ./venv
 source Scripts/activate
 cd ..
+python changing_encoding.py
 python sort.py
 python convert_json.py
 python convert_md.py
