@@ -1,7 +1,16 @@
 #!/bin/bash
-read -e -p "Commit message: " desc  
+# Pause on error
+set -e
+
+err_report() {
+    echo "Error on line $1"
+    read -p "ERROR: press enter to continue"
+}
+
+trap 'err_report $LINENO' ERR
 
 # Git
+read -e -p "Commit message: " desc
 git pull
 
 # Python scripts
