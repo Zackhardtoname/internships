@@ -11,7 +11,7 @@
 {
     "Name": "Amazon",
     "Position": "Software Development",
-    "Location": "Seattle, Washington,; Austin, TX;  Bay Area, Bellevue; Boston, MA; Denver, CO; Detriot, Michigan; Herndon, Virginia; Irvine, California; New York, NY; Madison, Wisconsin; Minneapolis, Minnesota; Phoenix, Arizona;Portland, OR; San Diego, California; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
+    "Location": "Seattle, WA,; Austin, TX;  Bay Area, Bellevue; Boston, MA; Denver, CO; Detriot, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ;Portland, OR; San Diego, CA; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "",
@@ -29,7 +29,7 @@
 {
     "Name": "Apple",
     "Position": "SWE, Hardware, UI/UX, Sales, ML",
-    "Location": "Santa Clara Valley (Cupertino), California (Mainly)",
+    "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "",
@@ -74,7 +74,7 @@
 {
     "Name": "Capital One",
     "Position": "Technology Internship",
-    "Location": "McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas\u00ef\u00bf\u00bd",
+    "Location": "McLean, Virginia; Boston, MA; New York, NY; San Francisco, CA; Chicago, IL; Wilmington, DE; Richmond, VA; Plano, TX\u00ef\u00bf\u00bd",
     "Class Year Requirement": "Junior, Senior",
     "International": "No sponsorship",
     "Notes": "",
@@ -155,7 +155,7 @@
 {
     "Name": "Flexport",
     "Position": "Software Engineer",
-    "Location": "San Francisco, CA; Chicago Illinois",
+    "Location": "San Francisco, CA; Chicago IL",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "",
@@ -164,7 +164,7 @@
 {
     "Name": "Front",
     "Position": "",
-    "Location": "San Francisco, California; Paris, France",
+    "Location": "San Francisco, CA; Paris, France",
     "Class Year Requirement": "Junior, Senior",
     "International": "",
     "Notes": "",
@@ -299,7 +299,7 @@
 {
     "Name": "Qualcomm",
     "Position": "Software Engineer",
-    "Location": "San Diego, California; Boulder, CO; Austin, Texas; San Jose, California; Santa Clara, California",
+    "Location": "San Diego, CA; Boulder, CO; Austin, TX; San Jose, CA; Santa Clara, CA",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "In study toward Bachelors (3.0 GPA or above) or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September) ",
@@ -344,7 +344,7 @@
 {
     "Name": "SAS",
     "Position": "",
-    "Location": "Santa Clara Valley (Cupertino), California (Mainly)",
+    "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "Pipeline for students with Autism",
@@ -362,7 +362,7 @@
 {
     "Name": "Snapchat",
     "Position": "IT Internal Front End Developer",
-    "Location": "Los Angeles, California",
+    "Location": "Los Angeles, CA",
     "Class Year Requirement": "",
     "International": "",
     "Notes": "Perferred Ability to code in Javascript and script with HTML and CSS ",
