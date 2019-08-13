@@ -1,8 +1,10 @@
 # Steps
 
-1. Fork repository
+1. Check out the [issues page](https://github.com/Zackhardtoname/internships/issues) for ideas and whether your idea of change happen to be there with some more details
 
-2. Make changes
+2. Fork repository
+
+3. Make changes
 
    If you don't know Python:
 
@@ -14,7 +16,7 @@
 
    ​    <u>pip install -r requirements.txt</u>
 
-3. Open a pull request!
+4. Open a pull request!
 
    
 
