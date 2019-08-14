@@ -2,8 +2,8 @@
 {
     "Name": "Akuna",
     "Position": "Many types",
-    "Location": "Chicago",
-    "Class Year Requirement": "Junior, Senior",
+    "Location": "Chicago, IL; Sydney, Australia; Shanghai; Boston, MA",
+    "Class Year": "Junior, Senior",
     "International": "",
     "Notes": "",
     "URL": "https://akunacapital.com/careers#careers"
@@ -11,17 +11,17 @@
 {
     "Name": "Amazon",
     "Position": "Software Development",
-    "Location": "Seattle, WA,; Austin, TX;  Bay Area, Bellevue; Boston, MA; Denver, CO; Detriot, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ;Portland, OR; San Diego, CA; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
-    "Class Year Requirement": "",
+    "Location": "Seattle, WA; Austin, TX; Bellevue, WA; Boston, MA; Denver, CO; Detriot, MI; Herndon, VA; Irvine, CA; NY, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ;Portland, OR; San Diego, CA; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.amazon.jobs/en/teams/internships-for-students"
 },
 {
     "Name": "American Express",
-    "Position": "",
-    "Location": "Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.",
-    "Class Year Requirement": "Sophomores, Junior, Senior",
+    "Position": "Software Engineer",
+    "Location": "Phoenix, AZ; Ft. Lauderdale, FL; NY, NY",
+    "Class Year": "Sophomores, Junior, Senior",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.americanexpress.com/jobs/19003378?"
@@ -30,7 +30,7 @@
     "Name": "Apple",
     "Position": "SWE, Hardware, UI/UX, Sales, ML",
     "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=Internships-STDNT-INTRN"
@@ -39,43 +39,34 @@
     "Name": "Atlassian",
     "Position": "Software Developer",
     "Location": "Mountian View, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021",
     "URL": "https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b"
 },
 {
     "Name": "Belvedere Trading",
-    "Position": "",
-    "Location": "Chicago",
-    "Class Year Requirement": "Junior, Senior",
+    "Position": "Software Engineer",
+    "Location": "Chicago, IL",
+    "Class Year": "Junior, Senior",
     "International": "No sponsorship",
     "Notes": "",
     "URL": "http://belvederetrading.applicantstack.com/x/detail/a2sa4x08859m"
 },
 {
     "Name": "Blend",
-    "Position": "",
+    "Position": "Software Engineer",
     "Location": "San Francisco, CA",
-    "Class Year Requirement": "Junior, Senior",
+    "Class Year": "Junior, Senior",
     "International": "",
     "Notes": "",
     "URL": "https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7"
 },
 {
-    "Name": "Breakthrough",
-    "Position": "",
-    "Location": "Green Bay, WI",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "Min. GPA 3.0, Cover letter required",
-    "URL": "https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern"
-},
-{
     "Name": "Capital One",
     "Position": "Technology Internship",
-    "Location": "McLean, Virginia; Boston, MA; New York, NY; San Francisco, CA; Chicago, IL; Wilmington, DE; Richmond, VA; Plano, TX\u00ef\u00bf\u00bd",
-    "Class Year Requirement": "Junior, Senior",
+    "Location": "McLean, VA; Boston, MA; NY, NY; San Francisco, CA; Chicago, IL; Wilmington, DE; Richmond, VA; Plano, TX\u00ef\u00bf\u00bd",
+    "Class Year": "Junior, Senior",
     "International": "No sponsorship",
     "Notes": "",
     "URL": "https://campus.capitalone.com/job/-/-/1786/12562814?utm_source=localjobnetwork.com&utm_campaign=enterprise&utm_medium=job_posting&utm_content=job_board&ss=paid&dclid=CjgKEAjw4NrpBRDfhrmjpZHPiH8SJABuVfdoxiWiy_1DE6vP-RBQgbIf9OdVBs1hpoqHUa5Ezmg4-vD_BwE"
@@ -83,44 +74,35 @@
 {
     "Name": "Citadel",
     "Position": "SWE, Quant, IT, DevOps",
-    "Location": "Several: Dublin, London, Chicago, Hong Kong, London, New York, Austin",
-    "Class Year Requirement": "",
+    "Location": "Dublin; Chicago, IL; Hong Kong; London; NY; Austin, TX",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.citadel.com/careers/open-positions/positions-for-students/"
 },
 {
-    "Name": "Collins Aerospace",
-    "Position": "",
-    "Location": "Cedar Rapids, IA",
-    "Class Year Requirement": "",
-    "International": "U.S. citizenship required",
-    "Notes": "",
-    "URL": "https://jobs.collinsaerospace.com/job/cedar-rapids/software-electrical-engineering-intern-summer-2020/1738/12601751"
-},
-{
     "Name": "Databricks",
     "Position": "Software Engineer",
     "Location": "San Francisco, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "2020, 2021 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |",
     "URL": "https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62"
 },
 {
     "Name": "Dropbox",
-    "Position": "",
-    "Location": "San Francisco, CA; Seattle, WA; New York, NY",
-    "Class Year Requirement": "Junior, New Grad",
+    "Position": "Software Engineer",
+    "Location": "San Francisco, CA; Seattle, WA; NY, NY",
+    "Class Year": "Junior, New Grad",
     "International": "",
     "Notes": "",
     "URL": "https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions"
 },
 {
     "Name": "Duolingo",
-    "Position": "",
+    "Position": "Software Engineer",
     "Location": "Pittsburgh, PA",
-    "Class Year Requirement": "Junior, Senior",
+    "Class Year": "Junior, Senior",
     "International": "",
     "Notes": "",
     "URL": "https://boards.greenhouse.io/duolingo/jobs/4351727002"
@@ -128,8 +110,8 @@
 {
     "Name": "Facebook",
     "Position": "FrontEnd, SWE, AI, etc.",
-    "Location": "Several: Menlo Park, New York, Boston, Seattle, etc.",
-    "Class Year Requirement": "",
+    "Location": "Cork, Ireland; London, United Kingdom; NY, NY; Boston, MA; Sao Paulo, Brazil; Seattle, WA; Menlo Park, CA; Mexico City, Mexico",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.facebook.com/careers/jobs/?roles[0]=intern"
@@ -138,16 +120,16 @@
     "Name": "Fast Enterprises",
     "Position": "Implementation Consultant",
     "Location": "U.S.",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "Must be pursuing degree ",
     "Notes": "",
     "URL": "https://www.fastenterprises.com/careers/positions"
 },
 {
     "Name": "Fidelity Investments",
-    "Position": "",
-    "Location": "US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield",
-    "Class Year Requirement": "",
+    "Position": "Technical Internship",
+    "Location": "Durham, NC; Merrimack, New Hampshire; Boston, MA; Smithfield, RI",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/"
@@ -155,26 +137,26 @@
 {
     "Name": "Flexport",
     "Position": "Software Engineer",
-    "Location": "San Francisco, CA; Chicago IL",
-    "Class Year Requirement": "",
+    "Location": "San Francisco, CA; Chicago, IL",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://boards.greenhouse.io/flexport/jobs/1802354"
 },
 {
     "Name": "Front",
-    "Position": "",
+    "Position": "Software Engineer",
     "Location": "San Francisco, CA; Paris, France",
-    "Class Year Requirement": "Junior, Senior",
+    "Class Year": "Junior, Senior",
     "International": "",
     "Notes": "",
     "URL": "https://frontapp.com/jobs"
 },
 {
     "Name": "Goldman Sachs",
-    "Position": "",
+    "Position": "Engineering Essentials",
     "Location": "Several: Americas",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Only exploratory programs for minorities",
     "URL": "https://www.goldmansachs.com/careers/students/programs/index.html"
@@ -183,7 +165,7 @@
     "Name": "Google",
     "Position": "Many types",
     "Location": "U.S., India",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "SDE position in India and some research positions in the U.S.",
     "URL": "https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=INTERN&jlo=en_US&src=Online%2FTOPS%2FTOPS_site&utm_campaign=&utm_medium=site&utm_source=TOPS"
@@ -192,16 +174,16 @@
     "Name": "Groceristar",
     "Position": "Engineers, Q&A, Project manager, Personal Assistant, Growth Hacker. Seems to have strong mentorship and learning experience",
     "Location": "Remote/Work From Home",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Unpaid. Seems to have strong mentorship and learning experience",
     "URL": "https://angel.co/company/groceristar/jobs"
 },
 {
     "Name": "Houston Mechatronics",
-    "Position": "",
+    "Position": "Engineer (software, electrical, mechanical)",
     "Location": "Webster, TX",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "U.S. citizenship required",
     "Notes": "Prefers robotics experience, Linux command line, and Python programming language",
     "URL": "https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y"
@@ -210,16 +192,16 @@
     "Name": "IBM",
     "Position": "Many types",
     "Location": "U.S.",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "The webpage takes awefully long to load during the application process",
     "URL": "https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/Country/US//?lang=en"
 },
 {
     "Name": "IMC Trading",
-    "Position": "",
-    "Location": "Chicago",
-    "Class Year Requirement": "",
+    "Position": "Quant Trader",
+    "Location": "Chicago, IL",
+    "Class Year": "",
     "International": "",
     "Notes": "Min. GPA 3.5, prefers Python programming skills",
     "URL": "https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550"
@@ -227,8 +209,8 @@
 {
     "Name": "JP Morgan Chase",
     "Position": "Many types",
-    "Location": "Asia: Singapore, Europe, Middle East, US: IL, OH, TX, NY, DE, TX, CA, WA, FL",
-    "Class Year Requirement": "Junior, Senior",
+    "Location": "Asia: Singapore; Hong Kong; Europe: Bournemouth, United Kingdom; Dublin, Ireland; Geneva, Switzerland; Glasgow, United Kingdom; London, United Kingdom; Middle East, US: Chicago, IL; Columbus, OH; Houston, TX; NY Metro; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL",
+    "Class Year": "Junior, Senior",
     "International": "Won't take internationals",
     "Notes": "All JP Morgan Chase positions open including IB/Quant/Data Analytics",
     "URL": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7"
@@ -236,26 +218,26 @@
 {
     "Name": "Leidos",
     "Position": "Software",
-    "Location": "Reston, VA, US",
-    "Class Year Requirement": "",
+    "Location": "Reston, VA",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.leidos.com/products"
 },
 {
     "Name": "Los Alamos National Lab",
-    "Position": "",
-    "Location": "Los Alamos, NM",
-    "Class Year Requirement": "",
+    "Position": "Computional Sciences",
+    "Location": "Los Alamos, New Mexico",
+    "Class Year": "",
     "International": "",
     "Notes": "Min. GPA 3.0 Coverletter Required",
     "URL": "https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw.."
 },
 {
     "Name": "Matco Tools",
-    "Position": "",
+    "Position": "Web Developer",
     "Location": "Stow, OH",
-    "Class Year Requirement": " Junior, Senior",
+    "Class Year": " Junior, Senior",
     "International": "",
     "Notes": "Prefers Java programming skills",
     "URL": "https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27"
@@ -264,34 +246,34 @@
     "Name": "Microsoft",
     "Position": "",
     "Location": "Global",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://careers.microsoft.com/us/en/"
 },
 {
     "Name": "Morgan Stanley",
-    "Position": "",
+    "Position": "Technology Internship",
     "Location": "Global (excluding U.S.)",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Only tech internships outside the US",
     "URL": "https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology"
 },
 {
     "Name": "NBCUniversal",
-    "Position": "",
-    "Location": "Tokyo or Stamford, CT",
-    "Class Year Requirement": "Sophomore, Junior, Senior",
+    "Position": "Technology Internship",
+    "Location": "Tokyo, Japan; Stamford, CT",
+    "Class Year": "Sophomore, Junior, Senior",
     "International": "No sponsorship",
     "Notes": "For Tokyo 2020 Olympics; No sponsorship;",
     "URL": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=442107&codes=LinkedIn#jobDetails=442107_5108"
 },
 {
     "Name": "Optiver",
-    "Position": "",
-    "Location": "Chicago",
-    "Class Year Requirement": "",
+    "Position": "Software Engineer",
+    "Location": "Chicago, IL",
+    "Class Year": "",
     "International": "",
     "Notes": "Prefers C, C++, Java or C# programming skills; No sponsorship",
     "URL": "https://www.optiver.com/na/en/job-opportunities/us-4315469002"
@@ -299,17 +281,17 @@
 {
     "Name": "Qualcomm",
     "Position": "Software Engineer",
-    "Location": "San Diego, CA; Boulder, CO; Austin, TX; San Jose, CA; Santa Clara, CA",
-    "Class Year Requirement": "",
+    "Location": "San Diego, CA; Boulder, Coloado; Austin, TX; San Jose, CA; Santa Clara, CA",
+    "Class Year": "",
     "International": "",
     "Notes": "In study toward Bachelors (3.0 GPA or above) or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September) ",
     "URL": "https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484"
 },
 {
     "Name": "Red Ventures",
-    "Position": "",
+    "Position": "Software Engineer",
     "Location": "Austin, TX",
-    "Class Year Requirement": "Junior",
+    "Class Year": "Junior",
     "International": "",
     "Notes": "Prefers experience with top web languages",
     "URL": "https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1"
@@ -317,35 +299,35 @@
 {
     "Name": "Reddit",
     "Position": "",
-    "Location": "San Francisco",
-    "Class Year Requirement": "",
+    "Location": "San Francisco, CA",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": ""
 },
 {
     "Name": "Rimeto",
-    "Position": "",
+    "Position": "Software Engineer",
     "Location": "San Francisco, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92"
 },
 {
     "Name": "Robinhood",
-    "Position": "",
+    "Position": "Software Engineer, Web Engineer, iOS Engineer, Infrastructure Engineer",
     "Location": "Menlo Park, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://boards.greenhouse.io/robinhood"
 },
 {
     "Name": "SAS",
-    "Position": "",
+    "Position": "Technical Internship - Autism Spectrum",
     "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Pipeline for students with Autism",
     "URL": "https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
@@ -354,25 +336,25 @@
     "Name": "Salesforce",
     "Position": "Software Engineer",
     "Location": "Many types",
-    "Class Year Requirement": "Sophomore, Junior, Senior",
+    "Class Year": "Sophomore, Junior, Senior",
     "International": "",
     "Notes": "",
-    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
+    "URL": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/CA---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1"
 },
 {
     "Name": "Snapchat",
     "Position": "IT Internal Front End Developer",
     "Location": "Los Angeles, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Perferred Ability to code in Javascript and script with HTML and CSS ",
-    "URL": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045"
+    "URL": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-CA/IT-Internal-Front-End-Developer-Intern_R0009045"
 },
 {
     "Name": "Stripe",
     "Position": "Software Engineer",
     "Location": "San Francisco, CA; Seattle, WA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://stripe.com/jobs/listing/software-engineering-intern/1793449"
@@ -380,8 +362,8 @@
 {
     "Name": "The Vanguard Group",
     "Position": "Software Development, Technology Operations",
-    "Location": "Malvern, PA and Charlotte, NC",
-    "Class Year Requirement": "",
+    "Location": "Malvern, PA; Charlotte, NC",
+    "Class Year": "",
     "International": "",
     "Notes": "3.0 GPA Preferred, Software Development, Technology Operations",
     "URL": "https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925"
@@ -390,7 +372,7 @@
     "Name": "Twitter",
     "Position": "",
     "Location": "San Francisco, CA",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship"
@@ -398,8 +380,8 @@
 {
     "Name": "Two Sigma",
     "Position": "Software Engineer",
-    "Location": "New York, NY",
-    "Class Year Requirement": "",
+    "Location": "NY, NY",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982"
@@ -407,17 +389,17 @@
 {
     "Name": "Vail",
     "Position": "SWE, DevOps",
-    "Location": "Chicago",
-    "Class Year Requirement": "",
+    "Location": "Chicago, IL",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.vailsys.com/about/careers/"
 },
 {
     "Name": "Virtu Financial",
-    "Position": "",
-    "Location": "New York, NY",
-    "Class Year Requirement": "",
+    "Position": "Trading Systems Developer",
+    "Location": "NY, NY",
+    "Class Year": "",
     "International": "",
     "Notes": "Prefers C++ or Java programming skills",
     "URL": "https://boards.greenhouse.io/virtu/jobs/4367942002"
@@ -426,35 +408,26 @@
     "Name": "Vyte",
     "Position": "Frontend, backend?",
     "Location": "Paris, France",
-    "Class Year Requirement": "",
+    "Class Year": "",
     "International": "",
     "Notes": "Positions available for both Frontend and Backend Internships in Paris",
     "URL": "https://jobs.stationf.co/companies/vyte"
 },
 {
     "Name": "Workday",
-    "Position": "",
-    "Location": "Pleasanton, CA",
-    "Class Year Requirement": "",
+    "Position": "Software Application Engineer",
+    "Location": "Canada, British Columbia, Vancouver",
+    "Class Year": "",
     "International": "",
     "Notes": "",
-    "URL": "https://www.workday.com/en-us/company/careers/university-recruiting.html"
+    "URL": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers"
 },
 {
     "Name": "Yelp",
-    "Position": "",
-    "Location": "SF",
-    "Class Year Requirement": "",
+    "Position": "Software Engineer",
+    "Location": "San Francisco, CA",
+    "Class Year": "",
     "International": "",
     "Notes": "",
     "URL": "https://www.yelp.com/careers/job-openings"
-},
-{
-    "Name": "Zynga",
-    "Position": "",
-    "Location": "SF",
-    "Class Year Requirement": "",
-    "International": "",
-    "Notes": "",
-    "URL": "https://www.zynga.com/job-listing-category/students-new-grads-interns/"
 }]}
