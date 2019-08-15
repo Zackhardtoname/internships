@@ -40,6 +40,12 @@ Please kindly consider starring this repo (top right corner) to help it grow and
 
 All positions are software engineering roles, unless otherwise specified in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column
 
+Positions are abbreviated as follows:
+
+1. SDE: Software Engineer
+2. FE: Front End
+3. BE: Back End
+
 ### Location
 
 Two-letter locations indicate states in the U.S.
