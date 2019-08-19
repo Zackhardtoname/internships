@@ -22,13 +22,13 @@
     "Position": "SDE ",
     "Location": "Phoenix, AZ; Ft. Lauderdale, FL; NY, NY",
     "Class Year": "Sophomores, Junior, Senior",
-    "International": "",
+    "International": "No sponsorship",
     "Notes": "",
     "URL": "https://jobs.americanexpress.com/jobs/19003378?"
 },
 {
     "Name": "Apple",
-    "Position": "SWE, Hardware, UI/UX, Sales, ML",
+    "Position": "SDE, Hardware, UI/UX, Sales, ML",
     "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
     "Class Year": "",
     "International": "",
@@ -180,6 +180,15 @@
     "URL": "https://angel.co/company/groceristar/jobs"
 },
 {
+    "Name": "Gusto",
+    "Position": "SDE",
+    "Location": "San Francisco, CA; Denver, CO",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://boards.greenhouse.io/gusto"
+},
+{
     "Name": "Houston Mechatronics",
     "Position": "Engineer (software, electrical, mechanical)",
     "Location": "Webster, TX",
@@ -216,6 +225,24 @@
     "URL": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7"
 },
 {
+    "Name": "Jane Street",
+    "Position": "Trading Intern; Engineering Intern; Research Intern",
+    "Location": "New York, NY; London; Hong Kong\u00ef\u00bf\u00bd",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://www.janestreet.com/join-jane-street/internships/"
+},
+{
+    "Name": "Knowt",
+    "Position": "Tech Intern",
+    "Location": "Remote/Work From Home",
+    "Class Year": "",
+    "International": "",
+    "Notes": "Low compensation work at an early stage startup",
+    "URL": "https://www.getknowt.com/team/#apply"
+},
+{
     "Name": "Leidos",
     "Position": "Software",
     "Location": "Reston, VA",
@@ -241,6 +268,15 @@
     "International": "",
     "Notes": "Prefers Java programming skills",
     "URL": "https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27"
+},
+{
+    "Name": "Matician",
+    "Position": "SDE; AI; ML",
+    "Location": "Palo Alto, CA",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://hire.withgoogle.com/public/jobs/maticiancom"
 },
 {
     "Name": "Microsoft",
@@ -279,13 +315,13 @@
     "URL": "https://www.optiver.com/na/en/job-opportunities/us-4315469002"
 },
 {
-    "Name": "Palantir",
-    "Position": "Many types",
-    "Location": "Global",
+    "Name": "PayPal",
+    "Position": "SDE",
+    "Location": "Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY",
     "Class Year": "",
     "International": "",
     "Notes": "",
-    "URL": "https://www.palantir.com/careers/"
+    "URL": "https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date"
 },
 {
     "Name": "Phone2Action",
@@ -295,6 +331,15 @@
     "International": "No sponsorship",
     "Notes": "Well paid fellowships available in Product, Engineering, Sales, Marketing, Customer Success, and Operations. Interested in applying? Send your resume and a letter of interest to Jennifer Leo at jleo@phone2action.com ... and see our jobs site for FT positions: https://phone2action.com/about/careers/",
     "URL": "https://phone2action.com/civic-tech-fellows-program/"
+},
+{
+    "Name": "Plantir",
+    "Position": "SDE",
+    "Location": "New York, NY",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply"
 },
 {
     "Name": "Qualcomm",
@@ -342,6 +387,15 @@
     "URL": "https://boards.greenhouse.io/robinhood"
 },
 {
+    "Name": "Rockset",
+    "Position": "SDE",
+    "Location": "San Mateo, CA",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMHn16UbFdig"
+},
+{
     "Name": "SAS",
     "Position": "Tech Intern - Autism Spectrum",
     "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
@@ -372,7 +426,7 @@
     "Name": "Stripe",
     "Position": "SDE",
     "Location": "San Francisco, CA; Seattle, WA",
-    "Class Year": "",
+    "Class Year": "Plan to graduate in 2021 or 2022",
     "International": "",
     "Notes": "",
     "URL": "https://stripe.com/jobs/listing/software-engineering-intern/1793449"
@@ -385,6 +439,24 @@
     "International": "",
     "Notes": "3.0 GPA Preferred, Software Development, Technology Operations",
     "URL": "https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925"
+},
+{
+    "Name": "Thumbtack",
+    "Position": "SDE",
+    "Location": "San Francisco, CA",
+    "Class Year": "Graduating in 2021",
+    "International": "",
+    "Notes": "",
+    "URL": "https://boards.greenhouse.io/thumbtack/jobs/1814883"
+},
+{
+    "Name": "Toast",
+    "Position": "SDE",
+    "Location": "Dublin, Ireland",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://boards.greenhouse.io/embed/job_app?token=1345570&gh_src=dbd19ebc1"
 },
 {
     "Name": "Twitter",
