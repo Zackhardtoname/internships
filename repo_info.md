@@ -62,4 +62,3 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 ## Credits
 
 This repo is inspired by [this one](https://github.com/christine-hu/summer-2019-internships)
-

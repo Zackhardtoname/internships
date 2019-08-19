@@ -10,7 +10,7 @@
 },
 {
     "Name": "Amazon",
-    "Position": "Software Development",
+    "Position": "SDE",
     "Location": "Seattle, WA; Austin, TX; Bellevue, WA; Boston, MA; Denver, CO; Detriot, MI; Herndon, VA; Irvine, CA; NY, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ;Portland, OR; San Diego, CA; Vancouver, Canada; Toronto, Canada; Winnipeg Canada",
     "Class Year": "",
     "International": "",
@@ -19,7 +19,7 @@
 },
 {
     "Name": "American Express",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "Phoenix, AZ; Ft. Lauderdale, FL; NY, NY",
     "Class Year": "Sophomores, Junior, Senior",
     "International": "",
@@ -37,7 +37,7 @@
 },
 {
     "Name": "Atlassian",
-    "Position": "Software Developer",
+    "Position": "SDE",
     "Location": "Mountian View, CA",
     "Class Year": "Junior, Senior",
     "International": "",
@@ -46,7 +46,7 @@
 },
 {
     "Name": "Belvedere Trading",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "Chicago, IL",
     "Class Year": "Junior, Senior",
     "International": "No sponsorship",
@@ -55,7 +55,7 @@
 },
 {
     "Name": "Blend",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "San Francisco, CA",
     "Class Year": "Junior, Senior",
     "International": "",
@@ -64,7 +64,7 @@
 },
 {
     "Name": "Capital One",
-    "Position": "Technology Internship",
+    "Position": "Tech Intern",
     "Location": "McLean, VA; Boston, MA; NY, NY; San Francisco, CA; Chicago, IL; Wilmington, DE; Richmond, VA; Plano, TX",
     "Class Year": "Junior, Senior",
     "International": "No sponsorship",
@@ -73,7 +73,7 @@
 },
 {
     "Name": "Citadel",
-    "Position": "SWE, Quant, IT, DevOps",
+    "Position": "SDE, Quant, IT, DevOps",
     "Location": "Dublin; Chicago, IL; Hong Kong; London; NY; Austin, TX",
     "Class Year": "",
     "International": "",
@@ -82,7 +82,7 @@
 },
 {
     "Name": "Databricks",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "San Francisco, CA",
     "Class Year": "2020, 2021 graduate working on a BS/MS or PhD degree",
     "International": "",
@@ -91,7 +91,7 @@
 },
 {
     "Name": "Dropbox",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "San Francisco, CA; Seattle, WA; NY, NY",
     "Class Year": "Junior, New Grad",
     "International": "",
@@ -100,7 +100,7 @@
 },
 {
     "Name": "Duolingo",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "Pittsburgh, PA",
     "Class Year": "Junior, Senior",
     "International": "",
@@ -109,7 +109,7 @@
 },
 {
     "Name": "Facebook",
-    "Position": "FrontEnd, SWE, AI, etc.",
+    "Position": "FE, SDE, AI, etc.",
     "Location": "Cork, Ireland; London, United Kingdom; NY, NY; Boston, MA; Sao Paulo, Brazil; Seattle, WA; Menlo Park, CA; Mexico City, Mexico",
     "Class Year": "",
     "International": "",
@@ -127,7 +127,7 @@
 },
 {
     "Name": "Fidelity Investments",
-    "Position": "Technical Internship",
+    "Position": "Tech Intern",
     "Location": "Durham, NC; Merrimack, New Hampshire; Boston, MA; Smithfield, RI",
     "Class Year": "",
     "International": "",
@@ -136,7 +136,7 @@
 },
 {
     "Name": "Flexport",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "San Francisco, CA; Chicago, IL",
     "Class Year": "",
     "International": "",
@@ -145,7 +145,7 @@
 },
 {
     "Name": "Front",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "San Francisco, CA; Paris, France",
     "Class Year": "Junior, Senior",
     "International": "",
@@ -235,7 +235,7 @@
 },
 {
     "Name": "Matco Tools",
-    "Position": "Web Developer",
+    "Position": "Web Dev",
     "Location": "Stow, OH",
     "Class Year": " Junior, Senior",
     "International": "",
@@ -253,7 +253,7 @@
 },
 {
     "Name": "Morgan Stanley",
-    "Position": "Technology Internship",
+    "Position": "Tech Intern",
     "Location": "Global (excluding U.S.)",
     "Class Year": "",
     "International": "",
@@ -262,7 +262,7 @@
 },
 {
     "Name": "NBCUniversal",
-    "Position": "Technology Internship",
+    "Position": "Tech Intern",
     "Location": "Tokyo, Japan; Stamford, CT",
     "Class Year": "Sophomore, Junior, Senior",
     "International": "No sponsorship",
@@ -271,12 +271,21 @@
 },
 {
     "Name": "Optiver",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "Chicago, IL",
     "Class Year": "",
     "International": "",
     "Notes": "Prefers C, C++, Java or C# programming skills; No sponsorship",
     "URL": "https://www.optiver.com/na/en/job-opportunities/us-4315469002"
+},
+{
+    "Name": "Palantir",
+    "Position": "Many types",
+    "Location": "Global",
+    "Class Year": "",
+    "International": "",
+    "Notes": "",
+    "URL": "https://www.palantir.com/careers/"
 },
 {
     "Name": "Phone2Action",
@@ -289,7 +298,7 @@
 },
 {
     "Name": "Qualcomm",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "San Diego, CA; Boulder, Coloado; Austin, TX; San Jose, CA; Santa Clara, CA",
     "Class Year": "",
     "International": "",
@@ -298,7 +307,7 @@
 },
 {
     "Name": "Red Ventures",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "Austin, TX",
     "Class Year": "Junior",
     "International": "",
@@ -316,7 +325,7 @@
 },
 {
     "Name": "Rimeto",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "San Francisco, CA",
     "Class Year": "",
     "International": "",
@@ -325,7 +334,7 @@
 },
 {
     "Name": "Robinhood",
-    "Position": "Software Engineer, Web Engineer, iOS Engineer, Infrastructure Engineer",
+    "Position": "SDE, Web Engineer, iOS Engineer, Infrastructure Engineer",
     "Location": "Menlo Park, CA",
     "Class Year": "",
     "International": "",
@@ -334,7 +343,7 @@
 },
 {
     "Name": "SAS",
-    "Position": "Technical Internship - Autism Spectrum",
+    "Position": "Tech Intern - Autism Spectrum",
     "Location": "Santa Clara Valley (Cupertino), CA (Mainly)",
     "Class Year": "",
     "International": "",
@@ -343,7 +352,7 @@
 },
 {
     "Name": "Salesforce",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "Many types",
     "Class Year": "Sophomore, Junior, Senior",
     "International": "",
@@ -352,7 +361,7 @@
 },
 {
     "Name": "Snapchat",
-    "Position": "IT Internal Front End Developer",
+    "Position": "IT Internal FE Dev",
     "Location": "Los Angeles, CA",
     "Class Year": "",
     "International": "",
@@ -361,7 +370,7 @@
 },
 {
     "Name": "Stripe",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "San Francisco, CA; Seattle, WA",
     "Class Year": "",
     "International": "",
@@ -370,7 +379,7 @@
 },
 {
     "Name": "The Vanguard Group",
-    "Position": "Software Development, Technology Operations",
+    "Position": "SDE, Technology Operations",
     "Location": "Malvern, PA; Charlotte, NC",
     "Class Year": "",
     "International": "",
@@ -388,7 +397,7 @@
 },
 {
     "Name": "Two Sigma",
-    "Position": "Software Engineer",
+    "Position": "SDE",
     "Location": "NY, NY",
     "Class Year": "",
     "International": "",
@@ -397,7 +406,7 @@
 },
 {
     "Name": "Vail",
-    "Position": "SWE, DevOps",
+    "Position": "SDE, DevOps",
     "Location": "Chicago, IL",
     "Class Year": "",
     "International": "",
@@ -406,7 +415,7 @@
 },
 {
     "Name": "Virtu Financial",
-    "Position": "Trading Systems Developer",
+    "Position": "Trading Systems Dev",
     "Location": "NY, NY",
     "Class Year": "",
     "International": "",
@@ -415,7 +424,7 @@
 },
 {
     "Name": "Vyte",
-    "Position": "Frontend, backend?",
+    "Position": "FE, BE",
     "Location": "Paris, France",
     "Class Year": "",
     "International": "",
@@ -433,7 +442,7 @@
 },
 {
     "Name": "Yelp",
-    "Position": "Software Engineer",
+    "Position": "SDE ",
     "Location": "San Francisco, CA",
     "Class Year": "",
     "International": "",
