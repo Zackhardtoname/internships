@@ -45,8 +45,8 @@ Positions are abbreviated as follows:
 1. SDE: Software Engineer
 2. FE: Front End
 3. BE: Back End
-4. Technical/Technology Internship: Tech Intern
-5. Developer: Dev
+4. Tech Intern: Technical/Technology Internship
+5. Dev: Developer
 
 ### Location
 
