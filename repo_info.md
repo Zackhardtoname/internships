@@ -36,17 +36,17 @@ Please kindly consider starring this repo (top right corner) to help it grow and
 
 **The link generally should point to the websites about the positions**
 
-### Position
+### Role
 
 All positions are software engineering roles, unless otherwise specified in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column
 
-**Positions are abbreviated as follows:**
+Positions are abbreviated as follows:
 
-1. **SDE: Software Engineer**
-2. **FE: Front End**
-3. **BE: Back End**
-4. **Technical/Technology Internship: Tech Intern**
-5. **Developer: Dev**
+1. SDE: Software Engineer
+2. FE: Front End
+3. BE: Back End
+4. Tech Intern: Technical/Technology Internship
+5. Dev: Developer
 
 ### Location
 
@@ -62,4 +62,3 @@ countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 ## Credits
 
 This repo is inspired by [this one](https://github.com/christine-hu/summer-2019-internships)
-
