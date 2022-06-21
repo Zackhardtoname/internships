@@ -6,7 +6,7 @@ importlib-metadata==0.19
 jsonschema==3.0.1
 mbstrdecoder==0.8.1
 msgfy==0.0.7
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.0
 path.py==12.0.1
 pathvalidate==0.29.0
