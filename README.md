@@ -5,6 +5,7 @@ Please kindly consider starring this repo (top right corner) to help it grow and
 ## Use the List
 
 1. ## like Excel on a [website](https://zacklight.com/internships/) (URL might change so make sure to star this repo)!
+<img width="2007" height="933" alt="image" src="https://github.com/user-attachments/assets/9468923c-80eb-48eb-b46c-d224061d6d59" />
 
 2. ## as a [markdown file](internships.md)!
 
