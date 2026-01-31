@@ -19,4 +19,4 @@ six==1.12.0
 soupsieve==1.9.2
 tabledata==0.9.1
 typepy==0.6.0
-zipp==0.5.2
+zipp==3.19.1
