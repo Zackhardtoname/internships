@@ -20,7 +20,7 @@ Please kindly consider starring this repo (top right corner) to help it grow and
 ## General
 
 - For now, we mainly have **2020 summer tech internships**
-- Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups)
+- Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), [AngelList](https://angel.co/) (startups), and [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) for daily-updated Canadian student internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other fields.
 
 * <u>Difference between this and other platforms</u>
   * Not everyone has access to Handshake
